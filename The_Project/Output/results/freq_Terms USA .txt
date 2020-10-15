@@ -1,0 +1,7 @@
+""	"x"
+"1"	"diseas"
+"2"	"tax"
+"3"	"crisislex"
+"4"	"health"
+"5"	"emerg"
+"6"	"pandem"
